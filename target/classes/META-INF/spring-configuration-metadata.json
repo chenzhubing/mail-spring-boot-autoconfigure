@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "czb.mail",
+      "type": "com.mail.starter.MailProperties",
+      "sourceType": "com.mail.starter.MailProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "czb.mail.address",
+      "type": "java.lang.String",
+      "description": "邮件发送地址",
+      "sourceType": "com.mail.starter.MailProperties"
+    },
+    {
+      "name": "czb.mail.cc",
+      "type": "java.lang.String",
+      "description": "邮件抄送地址",
+      "sourceType": "com.mail.starter.MailProperties"
+    }
+  ],
+  "hints": []
+}

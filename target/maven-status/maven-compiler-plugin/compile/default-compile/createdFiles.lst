@@ -1,0 +1,5 @@
+com\mail\starter\ISendMail.class
+com\mail\starter\MailConfiguration.class
+com\mail\starter\MailProperties.class
+com\mail\starter\SendMailImpl.class
+META-INF\spring-configuration-metadata.json
